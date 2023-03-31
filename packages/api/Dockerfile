@@ -1,4 +1,4 @@
-FROM node:erbium-alpine
+FROM node:fermium-alpine
 
 RUN apk add bash vim curl wireguard-tools
 ENV WG_PEERS=''
