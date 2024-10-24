@@ -48,6 +48,6 @@
     "postinstall-postinstall": "^2.1.0"
   },
   "resolutions": {
-    "@types/node": "18.11.9"
+    "@types/node": "18.19.59"
   }
 }
